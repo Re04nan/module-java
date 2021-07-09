@@ -4,6 +4,6 @@ Repositório destinado ao exemplo prático, relacionado ao artigo criado sobre o
 
 ## Documentation
 
-[Medium](https://renan04-marques.medium.com/)
+[Medium](https://renan04-marques.medium.com/contextualizando-a-modulariza%C3%A7%C3%A3o-do-java-b29cab1f8568)
 
   
